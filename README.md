@@ -39,3 +39,4 @@ Se aumentó el tamaño de la bandera, los bordes, los textos y el símbolo del �
 ## Estado Final
 
 El resultado es una página web bien diseñada que cumple con todos los requisitos iniciales y mejoras solicitadas. ¿Necesitas más ajustes?
+
